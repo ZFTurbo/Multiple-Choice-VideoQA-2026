@@ -1,0 +1,11 @@
+decord==0.6.0
+numpy==2.3.5
+openai==2.47.0
+openai-harmony==0.0.8
+pandas==3.0.5
+qwen-vl-utils==0.0.14
+torch==2.11.0
+torchaudio==2.11.0
+torchvision==0.26.0
+transformers==5.14.1
+vllm==0.24.0
